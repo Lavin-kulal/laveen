@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "package-1": "file:../package-2"
-  }
+  },
+  "gitHead": "508f6dc4e41c46ebdda3a68f43020caa21e5dd2f"
 }
